@@ -1,1 +1,0 @@
-This is the index file of git version 1
